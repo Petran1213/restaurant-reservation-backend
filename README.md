@@ -82,5 +82,7 @@ reservation_id (PK), user_id (FK), restaurant_id (FK), date, time, people_count
 Όνομα: Petran (Πέτρος Μπενέτος)
 
 Μάθημα: CN6035 - Mobile & Distributed Systems
+
+
 Άδεια
 Αυτό το έργο δημιουργήθηκε για εκπαιδευτικούς σκοπούς.
