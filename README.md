@@ -35,24 +35,11 @@
 | GET    | /user/reservations     | Επιστροφή κρατήσεων χρήστη (με token)      |
 
 
- Δομή Φακέλων
-
-restaurant-reservation-backend/
-│
-├── routes/ # Ορισμός διαδρομών API
-├── controllers/ # Επιχειρησιακή λογική
-├── models/ # Σύνδεση με βάση δεδομένων
-├── middleware/ # JWT & error handling
-├── db.js # Σύνδεση με MariaDB
-├── app.js # Entry point του server
-└── .env # Περιβαλλοντικές μεταβλητές (π.χ. DB credentials)
-
-
 
  Οδηγίες Εκτέλεσης (Τοπικά)
 
  1. Κλωνοποίησε το repository:
-```bash
+bash
 git clone https://github.com/Petran1213/restaurant-reservation-backend.git
 cd restaurant-reservation-backend
 2. Εγκατάσταση dependencies:
